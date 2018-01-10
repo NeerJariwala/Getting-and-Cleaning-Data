@@ -1,7 +1,4 @@
----
-title: "CodeBook"
-output: html_document
----
+##Codebook
 
 # The information below comes from the features_info and README files for the UCI HAR Dataset.
 
